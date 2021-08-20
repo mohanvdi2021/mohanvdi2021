@@ -8,3 +8,5 @@
 mohanvdi2021/mohanvdi2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Am looking for FSLogix profile solutions, I have configured FSlogix and now I want to configure Storage space alert to end user,
+Example: User should get pop-up saying your profile storage is reached 50 % and out of 30 GB 15 GB is utilized.
